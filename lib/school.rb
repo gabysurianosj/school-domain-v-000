@@ -1,4 +1,4 @@
 class School 
-  def initialize
+  def initialize(new)
   end 
 end
